@@ -14,5 +14,5 @@ dependencies {
     implementation(group: 'org.vividus', name: 'vividus', version: vividusVersion)
     implementation(group: 'org.vividus', name: 'vividus-plugin-mobile-app', version: vividusVersion)
     implementation(group: 'org.vividus', name: 'vividus-plugin-visual', version: vividusVersion)
-    
+
 }
